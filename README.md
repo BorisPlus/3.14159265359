@@ -1,0 +1,1 @@
+Thanks [http://codius.ru/articles/Raspberry_Pi_3_GPIO_часть_3](http://codius.ru/articles/Raspberry_Pi_3_GPIO_часть_3)
