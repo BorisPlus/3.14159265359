@@ -14,7 +14,7 @@ nohup /home/pi/bin/cooler_control.py > /dev/null 2>&1 &
 /home/pi/bin/cooler_control.py &
 ```
 
-# VNC server
+## VNC server
 
 https://randomproj.wordpress.com/2015/07/16/how-to-install-vnc-server-on-raspberry-pi-to-control-osmc-remotely/
 
